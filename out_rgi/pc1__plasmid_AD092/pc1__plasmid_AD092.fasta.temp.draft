@@ -1,0 +1,18 @@
+DEFINITION  seqnum=1;seqlen=4225;seqhdr="NODE_96_length_4225_cov_9.606954";version=Prodigal.v2.6.3;run_type=Metagenomic;model="48|Xylella_fastidiosa_Temecula1|B|51.8|11|1";gc_cont=51.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             99..470
+                     /note="ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.401;conf=97.56;score=16.05;cscore=5.84;sscore=10.21;rscore=7.25;uscore=-1.81;tscore=4.77;"
+     CDS             484..1047
+                     /note="ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.488;conf=99.89;score=29.51;cscore=16.49;sscore=13.03;rscore=7.25;uscore=-0.12;tscore=4.77;"
+     CDS             1292..2785
+                     /note="ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.608;conf=100.00;score=96.14;cscore=83.09;sscore=13.05;rscore=9.16;uscore=-0.23;tscore=4.77;"
+     CDS             3202..4092
+                     /note="ID=1_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.478;conf=100.00;score=72.48;cscore=66.03;sscore=6.45;rscore=2.27;uscore=0.06;tscore=4.77;"
+//
+DEFINITION  seqnum=2;seqlen=1506;seqhdr="NODE_122_length_1506_cov_9.056513";version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(146..787)
+                     /note="ID=2_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.433;conf=100.00;score=60.13;cscore=41.95;sscore=18.18;rscore=9.79;uscore=4.40;tscore=3.99;"
+     CDS             complement(937..1437)
+                     /note="ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.509;conf=100.00;score=55.32;cscore=50.82;sscore=4.51;rscore=3.02;uscore=-2.50;tscore=3.99;"
+//

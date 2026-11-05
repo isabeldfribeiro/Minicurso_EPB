@@ -1,12 +1,6 @@
 # Banco de dados
 CARD/
 
-# Resultados
-out_rgi/
-
-# Genomas e replicons
-replicons/
-
 # Arquivos temporários
 *.xml
 *.tmp

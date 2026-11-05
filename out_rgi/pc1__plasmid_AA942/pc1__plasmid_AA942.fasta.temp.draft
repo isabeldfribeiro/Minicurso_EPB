@@ -1,0 +1,5 @@
+DEFINITION  seqnum=1;seqlen=1892;seqhdr="NODE_117_length_1892_cov_117.324986";version=Prodigal.v2.6.3;run_type=Metagenomic;model="23|Hyperthermus_butylicus_DSM_5456|A|53.7|11|1";gc_cont=53.70;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             350..1834
+                     /note="ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.580;conf=100.00;score=108.95;cscore=101.51;sscore=7.44;rscore=7.31;uscore=0.11;tscore=0.01;"
+//

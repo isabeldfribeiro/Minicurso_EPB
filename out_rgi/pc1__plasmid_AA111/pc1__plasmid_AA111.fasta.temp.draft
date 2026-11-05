@@ -1,0 +1,7 @@
+DEFINITION  seqnum=1;seqlen=1258;seqhdr="NODE_128_length_1258_cov_15.112219";version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(31..897)
+                     /note="ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.555;conf=100.00;score=82.52;cscore=77.04;sscore=5.48;rscore=-6.26;uscore=0.35;tscore=3.83;"
+     CDS             complement(894..1193)
+                     /note="ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.557;conf=99.98;score=37.03;cscore=22.71;sscore=14.32;rscore=8.92;uscore=1.57;tscore=3.83;"
+//
